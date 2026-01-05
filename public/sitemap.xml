@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://sackermanufactures.com/</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://sackermanufactures.com/he" />
+  </url>
+  <url>
+    <loc>https://sackermanufactures.com/about</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://sackermanufactures.com/he/about" />
+  </url>
+  <url>
+    <loc>https://sackermanufactures.com/services</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://sackermanufactures.com/he/services" />
+  </url>
+  <url>
+    <loc>https://sackermanufactures.com/portfolio</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://sackermanufactures.com/he/portfolio" />
+  </url>
+  <url>
+    <loc>https://sackermanufactures.com/contact</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://sackermanufactures.com/he/contact" />
+  </url>
+  <url>
+    <loc>https://sackermanufactures.com/terms</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://sackermanufactures.com/he/terms" />
+  </url>
+  <url>
+    <loc>https://sackermanufactures.com/privacy</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://sackermanufactures.com/he/privacy" />
+  </url>
+  <url>
+    <loc>https://sackermanufactures.com/accessibility</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://sackermanufactures.com/he/accessibility" />
+  </url>
+  <url>
+    <loc>https://sackermanufactures.com/he</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sackermanufactures.com/" />
+  </url>
+  <url>
+    <loc>https://sackermanufactures.com/he/about</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sackermanufactures.com/about" />
+  </url>
+  <url>
+    <loc>https://sackermanufactures.com/he/services</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sackermanufactures.com/services" />
+  </url>
+  <url>
+    <loc>https://sackermanufactures.com/he/portfolio</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sackermanufactures.com/portfolio" />
+  </url>
+  <url>
+    <loc>https://sackermanufactures.com/he/contact</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sackermanufactures.com/contact" />
+  </url>
+  <url>
+    <loc>https://sackermanufactures.com/he/terms</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sackermanufactures.com/terms" />
+  </url>
+  <url>
+    <loc>https://sackermanufactures.com/he/privacy</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sackermanufactures.com/privacy" />
+  </url>
+  <url>
+    <loc>https://sackermanufactures.com/he/accessibility</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sackermanufactures.com/accessibility" />
+  </url>
+</urlset>
